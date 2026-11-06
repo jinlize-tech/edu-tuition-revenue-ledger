@@ -1,0 +1,24 @@
+{
+  "number": 79,
+  "product_id": "JLZ-EDU-SK-063",
+  "chinese_name": "学费收入台账",
+  "english_name": "Tuition Revenue Ledger",
+  "repository_name": "edu-tuition-revenue-ledger",
+  "product_type": "Skill",
+  "category": "07 财务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-tuition-revenue-ledger-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "收费项目、收款日期、课包、优惠、退款、确认收入和期次",
+  "main_output": "学费收入台账模板、确认规则、退款冲减、差异清单和复核标记",
+  "package_entries": [
+    "edu-tuition-revenue-ledger/SKILL.md",
+    "edu-tuition-revenue-ledger/references/DOMAIN_GUIDE.md",
+    "edu-tuition-revenue-ledger/references/EXAMPLES.md",
+    "edu-tuition-revenue-ledger/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-063",
+  "repository_name": "edu-tuition-revenue-ledger",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-tuition-revenue-ledger-v1.0.0.zip",
+  "sha256": "DC4DC5BAAB7B805A48648182EE2C047AFFFA64AEFF54A600C1CDB079612851B1",
+  "bytes": 4765,
+  "entries": [
+    "edu-tuition-revenue-ledger/SKILL.md",
+    "edu-tuition-revenue-ledger/references/DOMAIN_GUIDE.md",
+    "edu-tuition-revenue-ledger/references/EXAMPLES.md",
+    "edu-tuition-revenue-ledger/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:45:25.7717347+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
