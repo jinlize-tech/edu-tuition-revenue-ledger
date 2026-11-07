@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-063",
   "repository_name": "edu-tuition-revenue-ledger",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-tuition-revenue-ledger-v1.0.0.zip",
-  "sha256": "DC4DC5BAAB7B805A48648182EE2C047AFFFA64AEFF54A600C1CDB079612851B1",
-  "bytes": 4765,
+  "version": "1.0.1",
+  "package_path": "dist/edu-tuition-revenue-ledger-v1.0.1.zip",
+  "sha256": "F7AA435970A04E7DA7CF23810CC9F088DB5701A8344731D9BA35EE7DD9B944B9",
+  "bytes": 14451,
   "entries": [
     "edu-tuition-revenue-ledger/SKILL.md",
     "edu-tuition-revenue-ledger/references/DOMAIN_GUIDE.md",
     "edu-tuition-revenue-ledger/references/EXAMPLES.md",
-    "edu-tuition-revenue-ledger/templates/OUTPUT_TEMPLATE.md"
+    "edu-tuition-revenue-ledger/templates/OUTPUT_TEMPLATE.md",
+    "edu-tuition-revenue-ledger/README.md",
+    "edu-tuition-revenue-ledger/USAGE.md",
+    "edu-tuition-revenue-ledger/LICENSE",
+    "edu-tuition-revenue-ledger/THIRD_PARTY_NOTICES.md",
+    "edu-tuition-revenue-ledger/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:45:25.7717347+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-tuition-revenue-ledger-v1.0.0.zip",
+  "previous_package_sha256": "DC4DC5BAAB7B805A48648182EE2C047AFFFA64AEFF54A600C1CDB079612851B1",
+  "built_at": "2026-11-07T09:18:42.8115361+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }

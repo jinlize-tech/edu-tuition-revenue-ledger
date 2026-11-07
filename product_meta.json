@@ -6,19 +6,37 @@
   "repository_name": "edu-tuition-revenue-ledger",
   "product_type": "Skill",
   "category": "07 财务运营中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-tuition-revenue-ledger-v1.0.0.zip",
+  "baseline_commit": "7bdd6821880fb7e1b4228e28c4ccc74b260ac8ed",
+  "package_path": "dist/edu-tuition-revenue-ledger-v1.0.1.zip",
+  "previous_package_path": "dist/edu-tuition-revenue-ledger-v1.0.0.zip",
+  "previous_package_sha256": "DC4DC5BAAB7B805A48648182EE2C047AFFFA64AEFF54A600C1CDB079612851B1",
   "calculator": false,
   "core_input": "收费项目、收款日期、课包、优惠、退款、确认收入和期次",
   "main_output": "学费收入台账模板、确认规则、退款冲减、差异清单和复核标记",
+  "main_output_fields": [
+    "学费收入台账模板",
+    "确认规则",
+    "退款冲减",
+    "差异清单和复核标记"
+  ],
   "package_entries": [
     "edu-tuition-revenue-ledger/SKILL.md",
     "edu-tuition-revenue-ledger/references/DOMAIN_GUIDE.md",
     "edu-tuition-revenue-ledger/references/EXAMPLES.md",
-    "edu-tuition-revenue-ledger/templates/OUTPUT_TEMPLATE.md"
+    "edu-tuition-revenue-ledger/templates/OUTPUT_TEMPLATE.md",
+    "edu-tuition-revenue-ledger/README.md",
+    "edu-tuition-revenue-ledger/USAGE.md",
+    "edu-tuition-revenue-ledger/LICENSE",
+    "edu-tuition-revenue-ledger/THIRD_PARTY_NOTICES.md",
+    "edu-tuition-revenue-ledger/scripts/validate_input.js"
   ]
 }
